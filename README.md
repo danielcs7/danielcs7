@@ -48,15 +48,14 @@ Tecnologias 💻
 <img src="https://user-images.githubusercontent.com/92809543/147506952-a82aa3f8-0ab6-4223-8e77-a42fffe50e4b.png" width="80" height=80"/>
 <img src="https://user-images.githubusercontent.com/92809543/147509370-bfdc9029-5eb9-44ab-a551-d532b6efb0b7.png" width="80" height=80"/>
 
-<img src="https://user-images.githubusercontent.com/29869300/227796145-5278b534-021d-4d99-96d0-04e84e8404f1.png"/>
-<img src="https://user-images.githubusercontent.com/29869300/227796633-7632d45c-62cc-49c7-bdc3-5fc86f3b3ba0.png"/>
-<img src="https://user-images.githubusercontent.com/29869300/227796463-5f42ffde-35bf-4264-ad9e-680d1de192e8.png"/>
-<img src="https://user-images.githubusercontent.com/29869300/227796470-cbfc2912-fdf1-4580-8904-e7b6f0765b58.png"/>
-<img src="https://user-images.githubusercontent.com/29869300/227796478-bdec53cf-6fa5-4256-9af0-8c1b449beb9b.png"/>
-     
+
+<img src=https://user-images.githubusercontent.com/29869300/227797597-71d9b9fa-2ec1-443d-8e1c-2127a9fc1cb1.png"/>
+<img src=https://user-images.githubusercontent.com/29869300/227797603-7f750ef1-17f0-403c-842a-3ff34e927f7b.png"/>
+<img src=https://user-images.githubusercontent.com/29869300/227797608-e765f0ef-fc64-444b-a5af-8e9b5be0396f.png"/>
+<img src=https://user-images.githubusercontent.com/29869300/227797616-20683481-52d0-4cea-8411-f1572451c998.png"/>     
  
 </div>
- 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
