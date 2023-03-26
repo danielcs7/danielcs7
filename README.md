@@ -52,6 +52,7 @@ Tecnologias 💻
 <img src="https://user-images.githubusercontent.com/29869300/227786536-04acee11-acd4-45fd-81b5-ef5beaac3bf1.png" width="40" height="40"/>   
 </p>
 
+
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -60,6 +61,8 @@ Tecnologias 💻
 </p>
 
 ![spark](https://user-images.githubusercontent.com/29869300/227786536-04acee11-acd4-45fd-81b5-ef5beaac3bf1.png)
+
+
 
 
 Data Engineer | Business Intelligence | Data Analytics | ETL Pentaho - Python | Pyspark Airflow DBT
