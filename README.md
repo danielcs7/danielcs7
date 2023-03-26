@@ -2,8 +2,8 @@
 
 # Olá, seja bem-vindo ✌️
 
-Atualmente estudando Data Engineer. Aprofundando-me em Data Analysis com Python, QlikSense, SQL e estatística.
-&theme=default
+Sou um profissional de tecnologia trabalhando na área de dados e análises.
+Apaixonado por big data, análises avançadas e criação das melhores soluções de dados.
 
 <div style="display: inline_block"><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=danielcs7&show_icons=true&locale=en&theme=default" alt="danielcs7" />
