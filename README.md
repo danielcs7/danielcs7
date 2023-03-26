@@ -6,12 +6,12 @@ Sou um profissional de tecnologia trabalhando na área de dados e análises.
 Apaixonado por big data, análises avançadas e criação das melhores soluções de dados.
 
 <div style="display: inline_block"><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=danielcs7&show_icons=true&locale=en&theme=default" alt="danielcs7" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=danielcs7&show_icons=true&locale=en&theme=prussian" alt="danielcs7" />
 
 
 
 <div style="display: inline_block"><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielcs7&show_icons=true&locale=en&layout=compact&theme=default" alt="danielcs7" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielcs7&show_icons=true&locale=en&layout=compact&theme=prussian" alt="danielcs7" />
 </p>
 </div>
 </br>
