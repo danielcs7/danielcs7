@@ -56,6 +56,7 @@ Tecnologias 💻
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/danielcarloss7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danielcarloss7/" height="30" width="40" /></a>
 </p>
 
+![spark](https://user-images.githubusercontent.com/29869300/227786536-04acee11-acd4-45fd-81b5-ef5beaac3bf1.png)
 
 
 Data Engineer | Business Intelligence | Data Analytics | ETL Pentaho - Python | Pyspark Airflow DBT
