@@ -1,21 +1,23 @@
 
-Olá, seja bem-vindo 👋
-Atualmente estudando Data Science. Aprofundando-me em Data Analysis com Python, Power BI, SQL e estatística.
-Formado em Administração de Empresas e Pós Graduado em Gestão de Negócios.
+
+# Olá, seja bem-vindo ✌️
+
+Atualmente estudando Data Engineer. Aprofundando-me em Data Analysis com Python, QlikSense, SQL e estatística.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcs7&show_icons=true&theme=tokyonight)
+
+### Meu trabalho envolve:
+---
+Data Engineer | Business Intelligence | Data Analytics | ETL Pentaho - Python | Pyspark Airflow DBT
 
 
+Bancos de Dados:
+Postgres e SQL Server e Oracle:
 
-Tenho estudado
-Ciência de Dados (Classificação/Regresssão);
-Análise de Dados;
-Power BI;
-DAX;
-Qlik;
-Python para análise de dados;
-Estatística;
-Data Cleaning e Data Wrangling;
-Data Visualization e Data Storytelling;
-Bancos de Dados mySQL e SQL Server;
+![POSTGRES](https://img.shields.io/badge/-POSTGRES-yellowgreen)
+![ORACLE](https://img.shields.io/badge/-ORACLE-CRITICAL)
+![SQLSERVER](https://img.shields.io/badge/-SQLSERVER-red)
+
 Linguagem SQL;
 
 
