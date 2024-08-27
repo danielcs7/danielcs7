@@ -24,6 +24,7 @@ Apaixonado por big data, análises avançadas e criação das melhores soluçõe
 </br>
 <br>
 
+![duckdb_1](https://github.com/user-attachments/assets/ef4f24b3-5225-4e9d-8da4-20eb62b0f179)
 
 
 Bancos de Dados:
