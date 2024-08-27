@@ -24,9 +24,6 @@ Apaixonado por big data, análises avançadas e criação das melhores soluçõe
 </br>
 <br>
 
-![duckdb_1](https://github.com/user-attachments/assets/ef4f24b3-5225-4e9d-8da4-20eb62b0f179)
-
-
 Bancos de Dados:
 
 ![POSTGRES](https://img.shields.io/badge/-POSTGRES-yellowgreen)
@@ -49,7 +46,7 @@ Tecnologias 💻
 <img src="https://user-images.githubusercontent.com/92809543/147506952-a82aa3f8-0ab6-4223-8e77-a42fffe50e4b.png" width="80" height=80"/>
 <img src="https://user-images.githubusercontent.com/92809543/147509370-bfdc9029-5eb9-44ab-a551-d532b6efb0b7.png" width="80" height=80"/>
 <img src="https://github.com/danielcs7/danielcs7/assets/29869300/adf93a3c-0a60-4481-9ed0-d0a745df5a00" width="80" height="80">
-<img src="https://user-images.githubusercontent.com/92809543/29869300/361927937-ef4f24b3-5225-4e9d-8da4-20eb62b0f179.png" width="80" height="60">
+<img src="https://user-images.githubusercontent.com/29869300/361927937-ef4f24b3-5225-4e9d-8da4-20eb62b0f179.png" width="80" height="60">
 
 
 
