@@ -50,7 +50,7 @@ Tecnologias 💻
 
 
 ![duckdb_1](https://github.com/user-attachments/assets/57c67cef-fd49-4e99-9590-ab39d63846a9)
-<img src="https://github.com/user-attachments/assets/57c67cef-fd49-4e99-9590-ab39d63846a9.png" width="80" height="60">
+<img src="https://user-images.githubusercontent.com/29869300/361931334-57c67cef-fd49-4e99-9590-ab39d63846a9.png" width="80" height="60">
 
 <img src="https://user-images.githubusercontent.com/29869300/227797597-71d9b9fa-2ec1-443d-8e1c-2127a9fc1cb1.png"/>
 <img src="https://user-images.githubusercontent.com/29869300/227797603-7f750ef1-17f0-403c-842a-3ff34e927f7b.png"/>
