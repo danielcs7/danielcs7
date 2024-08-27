@@ -45,7 +45,7 @@ Tecnologias 💻
 <img src="https://user-images.githubusercontent.com/92809543/147506898-cf34755f-ee0d-484e-8239-cb1ecb4982e4.png" width="80" height=80"/>
 <img src="https://user-images.githubusercontent.com/92809543/147506952-a82aa3f8-0ab6-4223-8e77-a42fffe50e4b.png" width="80" height=80"/>
 <img src="https://user-images.githubusercontent.com/92809543/147509370-bfdc9029-5eb9-44ab-a551-d532b6efb0b7.png" width="80" height=80"/>
-<img src="https://github.com/danielcs7/danielcs7/assets/b300d516-d76d-46fb-997e-669d3db81433" width="80" height="80">  
+  
 <img src="https://github.com/user-attachments/assets/7998faa4-397f-4ac1-80f9-32bbb7d018d8"  width="80" height="80">
 
 <img src="https://user-images.githubusercontent.com/29869300/227797597-71d9b9fa-2ec1-443d-8e1c-2127a9fc1cb1.png"/>
