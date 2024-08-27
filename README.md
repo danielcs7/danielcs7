@@ -49,7 +49,6 @@ Tecnologias 💻
 <img src="https://user-images.githubusercontent.com/29869300/361927937-ef4f24b3-5225-4e9d-8da4-20eb62b0f179.png" width="80" height="60">
 
 
-![duckdb_1](https://github.com/user-attachments/assets/57c67cef-fd49-4e99-9590-ab39d63846a9)
 <img src="https://github.com/duckdb/duckdb/raw/main/logo/DuckDB_Logo-horizontal.svg" width="80" height="60">
 
 <img src="https://user-images.githubusercontent.com/29869300/227797597-71d9b9fa-2ec1-443d-8e1c-2127a9fc1cb1.png"/>
