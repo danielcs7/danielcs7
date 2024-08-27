@@ -48,7 +48,12 @@ Tecnologias 💻
 <img src="https://github.com/danielcs7/danielcs7/assets/29869300/adf93a3c-0a60-4481-9ed0-d0a745df5a00" width="80" height="80">
 <img src="https://user-images.githubusercontent.com/29869300/361927937-ef4f24b3-5225-4e9d-8da4-20eb62b0f179.png" width="80" height="60">
 
-<img src="[[https://user-images.githubusercontent.com/29869300/361934215-393d5448-58c3-4ccd-b503-013d64d86631.png](https://github-production-user-asset-6210df.s3.amazonaws.com/29869300/361934215-393d5448-58c3-4ccd-b503-013d64d86631.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240827%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240827T184327Z&X-Amz-Expires=300&X-Amz-Signature=44c243518e92a67084d3a7b1efac8b64359696e990162585c252e197adaee082&X-Amz-SignedHeaders=host&actor_id=29869300&key_id=0&repo_id=619152322)" width="80" height="80">
+
+
+<img src="[https://github.com/danielcs7/danielcs7/assets/](https://github.com/user-attachments/assets/b300d516-d76d-46fb-997e-669d3db81433)"  width="80" height="80">
+![logoDuck](https://github.com/user-attachments/assets/b300d516-d76d-46fb-997e-669d3db81433)
+
+
 
 <img src="https://user-images.githubusercontent.com/29869300/227797597-71d9b9fa-2ec1-443d-8e1c-2127a9fc1cb1.png"/>
 <img src="https://user-images.githubusercontent.com/29869300/227797603-7f750ef1-17f0-403c-842a-3ff34e927f7b.png"/>
